@@ -1,20 +1,20 @@
-# 🪑 PulseCode – Smart Posture Cushion (P.A.P.A.Y.A.)
+# PulseCode – Smart Posture Cushion (P.A.P.A.Y.A.)
 
 > **Posture Analysis and Proactive Alignment for Your Awareness**  
 > A smart cushion that detects poor sitting posture in real-time and provides subtle haptic feedback to encourage healthy sitting habits.
 
-📍 **2nd Runners Up – Brainstorm 2025**  
-🏫 **University of Moratuwa – BM1190 Engineering Design Project**
+**2nd Runners Up – Brainstorm 2025**  
+**University of Moratuwa – BM1190 Engineering Design Project**
 
 ---
 
-## 📜 Project Overview
+## Project Overview
 PulseCode is a human-centered ergonomic solution to combat posture-related back pain among desk-bound individuals.  
 It combines **pressure sensors**, **distance sensing**, and **vibration feedback** to help users build healthy sitting habits without intrusive devices.
 
 ---
 
-## 🛠 Features
+## Features
 - **8x FSR402 pressure sensors** for seat pressure mapping
 - **Ultrasonic sensor (HC-SR04)** for back distance measurement
 - **ATmega328P microcontroller** for posture logic
@@ -25,24 +25,24 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 
 ---
 
-## 📷 Images & Prototype
+## Images & Prototype
 | Prototype | Inside View | PCB Layout |
 |-----------|-------------|------------|
 | ![Prototype](images/prototype_front.jpg) | ![Inside](images/cushion_inside.jpg) | ![PCB Layout 1](images/pcb_layout1.jpg) ![PCB Layout 2](images/pcb_layout2.jpg) |
 
 ---
 
-## 🖥 System Architecture
+## System Architecture
 ![System Block Diagram](images/system_block_diagram.png.jpg)
 
 ---
 
-## 📐 Enclosure Designs
+## Enclosure Designs
 ![SolidWorks Enclosure](images/enclosure_design.jpg)
 
 ---
 
-## 🔬 How It Works
+## How It Works
 1. **Posture Detection:**  
    - FSR sensors detect seating pressure patterns.  
    - Ultrasonic sensor measures back-to-backrest distance.  
@@ -55,14 +55,14 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 
 ---
 
-## 📑 Documentation
-- [📄 Final Report](Documentation/Final_Report_PAPAYA.pdf)  
-- [📊 Final Presentation](Documentation/Final_Presentation.pdf)  
-- [🎯 Project Pitch Deck](Documentation/PAPAYA_Project_Pitch.pdf)  
+## Documentation
+- [Final Report](Documentation/Final_Report_PAPAYA.pdf)  
+- [Final Presentation](Documentation/Final_Presentation.pdf)  
+- [Project Pitch Deck](Documentation/PAPAYA_Project_Pitch.pdf)  
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 - Abdul Rahman  
 - Mokshan Colombage  
 - Buddhima Imbulpitiya  
@@ -71,7 +71,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 
 ---
 
-## 🏆 Achievements
+## Achievements
 - **2nd Runners Up – Brainstorm 2025**
 - Fully functional MVP tested on real users
 - Developed entirely in Semester 2 with in-house 3D printing and PCB fabrication
